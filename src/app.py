@@ -96,7 +96,7 @@ activities = {
     "Music Ensemble": {
         "description": "Rehearse and perform music together as an ensemble",
         "schedule": "Tuesdays, 3:30 PM - 5:00 PM",
-        "max_participants":  twenty,
+        "max_participants": 20,
         "participants": []
     },
     "Math Club": {
